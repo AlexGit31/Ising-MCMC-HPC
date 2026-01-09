@@ -55,5 +55,5 @@ chmod +x compil.sh
 
 * Utiliser sur google colab deux codes :
     * le fichier projetMAM.cu
-    * le fichier exce.py
+    * le fichier exce.sh
 
