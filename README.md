@@ -10,7 +10,7 @@ Le projet est implémenté avec deux approches de calcul haute performance :
 ---
 
 📘 **Rapport LaTeX**
-👉 [Lire le rapport en ligne](https://AlexGit31.github.io/nom-du-repo/Ising-MCMC-HPC/report.pdf)
+👉 [Lire le rapport en ligne](https://AlexGit31.github.io/nom-du-repo/Ising-MCMC-HPC/Report.pdf)
 
 ## 📁 Structure du Projet
 
