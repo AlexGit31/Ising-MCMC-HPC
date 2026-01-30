@@ -9,6 +9,9 @@ Le projet est implémenté avec deux approches de calcul haute performance :
 
 ---
 
+📘 **Rapport LaTeX**
+👉 [Lire le rapport en ligne](https://Alex31Git.github.io/nom-du-repo/Ising-MCMC-HPC/report.pdf)
+
 ## 📁 Structure du Projet
 
 | Dossier / Fichier | Description                                                    |
@@ -27,7 +30,6 @@ Le projet est implémenté avec deux approches de calcul haute performance :
 Le code CPU permet d'étudier le système sur des grilles de taille modérée avec une gestion efficace des ressources.
 
 **Compilation :**
-
 
 ```bash
 chmod +x compil.sh
@@ -53,7 +55,6 @@ chmod +x compil.sh
 
 ### 3. Version CUDA
 
-* Utiliser sur google colab deux codes :
-    * le fichier projetMAM.cu
-    * le fichier exce.py
-
+- Utiliser sur google colab deux codes :
+  - le fichier projetMAM.cu
+  - le fichier exce.py
